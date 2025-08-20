@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-requests
-search-engines
-python-dotenv
-supabase
