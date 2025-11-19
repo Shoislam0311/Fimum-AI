@@ -1,6 +1,4 @@
 # Fimum AI Platform
-
-![Fimum AI Logo](https://imgur.com/a/oNKOjP4)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Status](https://img.shields.io/badge/status-production_ready-green)
 ![License](https://img.shields.io/badge/license-proprietary-orange)
