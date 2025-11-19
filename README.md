@@ -214,7 +214,7 @@ Fimum-AI/
 
 1. **Clone and Enter Repository**
    ```bash
-   git clone https://github.com/fimum-ai/fimum-ai.git
+   git clone (https://github.com/Shoislam0311/Fimum-AI)
    cd fimum-ai
    ```
 
