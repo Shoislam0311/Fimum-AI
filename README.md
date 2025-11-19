@@ -562,8 +562,8 @@ APP_SECRET_KEY=your-secret-key-here-min-32-chars
 APP_DEBUG=false
 
 # OpenRouter API
-OPENROUTER_API_KEY=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
-OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+OPENROUTER_API_KEY=YOUR_OPENROUTER_API_KEY
+OPENROUTER_BASE_URL=https://openrouter.ai/api/v1/chat/completions
 OPENROUTER_TIMEOUT=30
 
 # Database
